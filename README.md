@@ -9,5 +9,5 @@ Construção de um aplicativo simples no streamlit utilizando [Pima Indians Diab
 
 ### Rodar o app
 ```
-streamlit run diabetes_stremlit.py
+streamlit run diabetes_streamlit.py
 ```
